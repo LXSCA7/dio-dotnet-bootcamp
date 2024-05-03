@@ -40,6 +40,12 @@ namespace operadores_aritmeticos.Models
         {
             Console.WriteLine($"{x} / {y} = {x / y}");
         }
+
+        public void Potencia(int x, int y)
+        {
+            double pot = Math.Pow(x, y);
+            Console.WriteLine($"{x}^{y} = {pot}");
+        }
     }
 }
 ```
@@ -57,4 +63,5 @@ calc.Somar(15, 5);
 calc.Subtrair(10, 3);
 calc.Multiplicar(4, 8);
 calc.Dividir(24, 2);
+calc.Potencia(2, 2);
 ```

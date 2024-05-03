@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("operadores-aritmeticos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c7de128f3230030e7e0a7f767ac6df3b9260210")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d9e6ec965050cf1959ec89dd3f51821ad064fd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("operadores-aritmeticos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("operadores-aritmeticos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
