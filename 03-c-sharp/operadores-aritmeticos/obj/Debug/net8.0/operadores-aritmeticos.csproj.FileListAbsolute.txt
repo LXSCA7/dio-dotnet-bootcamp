@@ -1,0 +1,15 @@
+D:\_curso-csharp\03-c-sharp\operadores-aritmeticos\obj\Debug\net8.0\operadores-aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\_curso-csharp\03-c-sharp\operadores-aritmeticos\obj\Debug\net8.0\operadores-aritmeticos.AssemblyInfoInputs.cache
+D:\_curso-csharp\03-c-sharp\operadores-aritmeticos\obj\Debug\net8.0\operadores-aritmeticos.AssemblyInfo.cs
+D:\_curso-csharp\03-c-sharp\operadores-aritmeticos\obj\Debug\net8.0\operadores-aritmeticos.csproj.CoreCompileInputs.cache
+D:\_curso-csharp\03-c-sharp\operadores-aritmeticos\obj\Debug\net8.0\operadores-aritmeticos.sourcelink.json
+D:\_curso-csharp\03-c-sharp\operadores-aritmeticos\bin\Debug\net8.0\operadores-aritmeticos.exe
+D:\_curso-csharp\03-c-sharp\operadores-aritmeticos\bin\Debug\net8.0\operadores-aritmeticos.deps.json
+D:\_curso-csharp\03-c-sharp\operadores-aritmeticos\bin\Debug\net8.0\operadores-aritmeticos.runtimeconfig.json
+D:\_curso-csharp\03-c-sharp\operadores-aritmeticos\bin\Debug\net8.0\operadores-aritmeticos.dll
+D:\_curso-csharp\03-c-sharp\operadores-aritmeticos\bin\Debug\net8.0\operadores-aritmeticos.pdb
+D:\_curso-csharp\03-c-sharp\operadores-aritmeticos\obj\Debug\net8.0\operadores-aritmeticos.dll
+D:\_curso-csharp\03-c-sharp\operadores-aritmeticos\obj\Debug\net8.0\refint\operadores-aritmeticos.dll
+D:\_curso-csharp\03-c-sharp\operadores-aritmeticos\obj\Debug\net8.0\operadores-aritmeticos.pdb
+D:\_curso-csharp\03-c-sharp\operadores-aritmeticos\obj\Debug\net8.0\operadores-aritmeticos.genruntimeconfig.cache
+D:\_curso-csharp\03-c-sharp\operadores-aritmeticos\obj\Debug\net8.0\ref\operadores-aritmeticos.dll
