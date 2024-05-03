@@ -1,0 +1,14 @@
+D:\_curso-csharp\03-c-sharp\condicionais\bin\Debug\net8.0\condicionais.exe
+D:\_curso-csharp\03-c-sharp\condicionais\bin\Debug\net8.0\condicionais.deps.json
+D:\_curso-csharp\03-c-sharp\condicionais\bin\Debug\net8.0\condicionais.runtimeconfig.json
+D:\_curso-csharp\03-c-sharp\condicionais\bin\Debug\net8.0\condicionais.dll
+D:\_curso-csharp\03-c-sharp\condicionais\bin\Debug\net8.0\condicionais.pdb
+D:\_curso-csharp\03-c-sharp\condicionais\obj\Debug\net8.0\condicionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\_curso-csharp\03-c-sharp\condicionais\obj\Debug\net8.0\condicionais.AssemblyInfoInputs.cache
+D:\_curso-csharp\03-c-sharp\condicionais\obj\Debug\net8.0\condicionais.AssemblyInfo.cs
+D:\_curso-csharp\03-c-sharp\condicionais\obj\Debug\net8.0\condicionais.csproj.CoreCompileInputs.cache
+D:\_curso-csharp\03-c-sharp\condicionais\obj\Debug\net8.0\condicionais.dll
+D:\_curso-csharp\03-c-sharp\condicionais\obj\Debug\net8.0\refint\condicionais.dll
+D:\_curso-csharp\03-c-sharp\condicionais\obj\Debug\net8.0\condicionais.pdb
+D:\_curso-csharp\03-c-sharp\condicionais\obj\Debug\net8.0\condicionais.genruntimeconfig.cache
+D:\_curso-csharp\03-c-sharp\condicionais\obj\Debug\net8.0\ref\condicionais.dll
