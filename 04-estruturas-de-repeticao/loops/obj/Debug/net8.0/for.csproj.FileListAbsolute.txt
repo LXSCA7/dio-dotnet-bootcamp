@@ -1,0 +1,15 @@
+D:\_curso-csharp\04-estruturas-de-repeticao\for\obj\Debug\net8.0\for.GeneratedMSBuildEditorConfig.editorconfig
+D:\_curso-csharp\04-estruturas-de-repeticao\for\obj\Debug\net8.0\for.AssemblyInfoInputs.cache
+D:\_curso-csharp\04-estruturas-de-repeticao\for\obj\Debug\net8.0\for.AssemblyInfo.cs
+D:\_curso-csharp\04-estruturas-de-repeticao\for\obj\Debug\net8.0\for.csproj.CoreCompileInputs.cache
+D:\_curso-csharp\04-estruturas-de-repeticao\for\obj\Debug\net8.0\for.sourcelink.json
+D:\_curso-csharp\04-estruturas-de-repeticao\for\bin\Debug\net8.0\for.exe
+D:\_curso-csharp\04-estruturas-de-repeticao\for\bin\Debug\net8.0\for.deps.json
+D:\_curso-csharp\04-estruturas-de-repeticao\for\bin\Debug\net8.0\for.runtimeconfig.json
+D:\_curso-csharp\04-estruturas-de-repeticao\for\bin\Debug\net8.0\for.dll
+D:\_curso-csharp\04-estruturas-de-repeticao\for\bin\Debug\net8.0\for.pdb
+D:\_curso-csharp\04-estruturas-de-repeticao\for\obj\Debug\net8.0\for.dll
+D:\_curso-csharp\04-estruturas-de-repeticao\for\obj\Debug\net8.0\refint\for.dll
+D:\_curso-csharp\04-estruturas-de-repeticao\for\obj\Debug\net8.0\for.pdb
+D:\_curso-csharp\04-estruturas-de-repeticao\for\obj\Debug\net8.0\for.genruntimeconfig.cache
+D:\_curso-csharp\04-estruturas-de-repeticao\for\obj\Debug\net8.0\ref\for.dll
