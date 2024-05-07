@@ -1,0 +1,12 @@
+D:\_curso-csharp\05-estrutura-de-um-programa-csharp\ExemploFundamentos\hello.Common\bin\Debug\net8.0\hello.Common.deps.json
+D:\_curso-csharp\05-estrutura-de-um-programa-csharp\ExemploFundamentos\hello.Common\bin\Debug\net8.0\hello.Common.dll
+D:\_curso-csharp\05-estrutura-de-um-programa-csharp\ExemploFundamentos\hello.Common\bin\Debug\net8.0\hello.Common.pdb
+D:\_curso-csharp\05-estrutura-de-um-programa-csharp\ExemploFundamentos\hello.Common\obj\Debug\net8.0\hello.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\_curso-csharp\05-estrutura-de-um-programa-csharp\ExemploFundamentos\hello.Common\obj\Debug\net8.0\hello.Common.AssemblyInfoInputs.cache
+D:\_curso-csharp\05-estrutura-de-um-programa-csharp\ExemploFundamentos\hello.Common\obj\Debug\net8.0\hello.Common.AssemblyInfo.cs
+D:\_curso-csharp\05-estrutura-de-um-programa-csharp\ExemploFundamentos\hello.Common\obj\Debug\net8.0\hello.Common.csproj.CoreCompileInputs.cache
+D:\_curso-csharp\05-estrutura-de-um-programa-csharp\ExemploFundamentos\hello.Common\obj\Debug\net8.0\hello.Common.sourcelink.json
+D:\_curso-csharp\05-estrutura-de-um-programa-csharp\ExemploFundamentos\hello.Common\obj\Debug\net8.0\hello.Common.dll
+D:\_curso-csharp\05-estrutura-de-um-programa-csharp\ExemploFundamentos\hello.Common\obj\Debug\net8.0\refint\hello.Common.dll
+D:\_curso-csharp\05-estrutura-de-um-programa-csharp\ExemploFundamentos\hello.Common\obj\Debug\net8.0\hello.Common.pdb
+D:\_curso-csharp\05-estrutura-de-um-programa-csharp\ExemploFundamentos\hello.Common\obj\Debug\net8.0\ref\hello.Common.dll

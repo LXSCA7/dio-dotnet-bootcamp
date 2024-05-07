@@ -1,0 +1,5 @@
+D:\_curso-csharp\05-estrutura-de-um-programa-csharp\MenuInterativo\MenuInterativo.Common\obj\Debug\net8.0\MenuInterativo.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\_curso-csharp\05-estrutura-de-um-programa-csharp\MenuInterativo\MenuInterativo.Common\obj\Debug\net8.0\MenuInterativo.Common.AssemblyInfoInputs.cache
+D:\_curso-csharp\05-estrutura-de-um-programa-csharp\MenuInterativo\MenuInterativo.Common\obj\Debug\net8.0\MenuInterativo.Common.AssemblyInfo.cs
+D:\_curso-csharp\05-estrutura-de-um-programa-csharp\MenuInterativo\MenuInterativo.Common\obj\Debug\net8.0\MenuInterativo.Common.csproj.CoreCompileInputs.cache
+D:\_curso-csharp\05-estrutura-de-um-programa-csharp\MenuInterativo\MenuInterativo.Common\obj\Debug\net8.0\MenuInterativo.Common.sourcelink.json
