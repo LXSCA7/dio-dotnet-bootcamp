@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_curso-csharp\\06-propriedades\\ExemploExplorando\\ExemploExplorando.csproj",
+      "projectUniqueName": "D:\\_curso-csharp\\06-propriedades\\ExemploExplorando - excecoes\\ExemploExplorando.csproj",
       "projectName": "ExemploExplorando",
-      "projectPath": "D:\\_curso-csharp\\06-propriedades\\ExemploExplorando\\ExemploExplorando.csproj",
+      "projectPath": "D:\\_curso-csharp\\06-propriedades\\ExemploExplorando - excecoes\\ExemploExplorando.csproj",
       "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-      "outputPath": "D:\\_curso-csharp\\06-propriedades\\ExemploExplorando\\obj\\",
+      "outputPath": "D:\\_curso-csharp\\06-propriedades\\ExemploExplorando - excecoes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config"

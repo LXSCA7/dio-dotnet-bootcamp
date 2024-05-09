@@ -13,7 +13,7 @@ internal class Program
     {
         try
         {
-            string[] linhas = File.ReadAllLines("Arquivos/arq4uivoLeitura.txt");
+            string[] linhas = File.ReadAllLines("Arquivos/arquivoLeitura.txt");
 
             foreach (string i in linhas) {
                 Console.WriteLine(i);
