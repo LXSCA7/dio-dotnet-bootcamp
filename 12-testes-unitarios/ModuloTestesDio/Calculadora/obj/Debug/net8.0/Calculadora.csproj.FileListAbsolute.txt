@@ -1,0 +1,15 @@
+D:\_curso-csharp\12-testes-unitarios\ModuloTestesDio\Calculadora\bin\Debug\net8.0\Calculadora.exe
+D:\_curso-csharp\12-testes-unitarios\ModuloTestesDio\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+D:\_curso-csharp\12-testes-unitarios\ModuloTestesDio\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+D:\_curso-csharp\12-testes-unitarios\ModuloTestesDio\Calculadora\bin\Debug\net8.0\Calculadora.dll
+D:\_curso-csharp\12-testes-unitarios\ModuloTestesDio\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+D:\_curso-csharp\12-testes-unitarios\ModuloTestesDio\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\_curso-csharp\12-testes-unitarios\ModuloTestesDio\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+D:\_curso-csharp\12-testes-unitarios\ModuloTestesDio\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+D:\_curso-csharp\12-testes-unitarios\ModuloTestesDio\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\_curso-csharp\12-testes-unitarios\ModuloTestesDio\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
+D:\_curso-csharp\12-testes-unitarios\ModuloTestesDio\Calculadora\obj\Debug\net8.0\Calculadora.dll
+D:\_curso-csharp\12-testes-unitarios\ModuloTestesDio\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+D:\_curso-csharp\12-testes-unitarios\ModuloTestesDio\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+D:\_curso-csharp\12-testes-unitarios\ModuloTestesDio\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+D:\_curso-csharp\12-testes-unitarios\ModuloTestesDio\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
